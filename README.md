@@ -1,3 +1,4 @@
+### **DANIEL GLORYO NADIRCO - 23066020022**
 ### **1. Definition & Purpose of IT Strategic Planning**  
 IT strategic planning is a structured approach to aligning technology investments with business objectives. It ensures that IT initiatives support organizational growth, operational efficiency, and competitive advantage. Unlike tactical planning (day-to-day operations), strategic planning focuses on long-term goals (3–5 years) while remaining adaptable to technological shifts.  
 
